@@ -1,0 +1,28 @@
+.image{
+	width: 100% !important;
+}
+.text{
+	margin: 2em 0;
+}
+.pics{
+	width: 100% !important;
+	height: 200px;
+}
+.pics-text{
+	text-align: justify;
+}
+
+/*estilos para el contact*/
+.header-title{
+	margin-bottom: 2em;
+}
+
+#message{
+	max-width: 100%;
+	max-height: 200px;
+}
+
+.map iframe{
+	height: 260px;
+	width: 100%;
+}
