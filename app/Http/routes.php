@@ -24,4 +24,4 @@ Route::post('register',['as' => 'register','uses' => 'Auth\AuthController@create
 
 Route::get('logout',['as' => 'logout','uses' => 'Auth\AuthController@logout']);
 
-Route::get('admin',['as' => 'admin','uses' => 'ContactController@index']);
+Route::get('admin/contacts',['as' => 'adminContacts','uses' => 'ContactController@index']);

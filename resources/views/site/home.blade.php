@@ -19,7 +19,7 @@
 				<!-- Wrapper for slides -->
 				<div class="carousel-inner" role="listbox">
 					<div class="item active">
-					  <img src="{{asset('assets/img/laravel.png')}}" alt="Laravel" class="image">
+					  <img src="{{asset('assets/img/laravel.jpg')}}" alt="Laravel" class="image">
 					  <div class="carousel-caption">
 					    Laravel 5.*
 					  </div>
